@@ -5,5 +5,7 @@ def TicketPriceCalculator(age):
         price=0
     elif 5<age<9:
         price=5
+    elif 9<age<15:
+        price=10
     
 

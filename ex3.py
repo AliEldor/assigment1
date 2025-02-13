@@ -5,4 +5,5 @@ if __name__== "__main__":
     
     if(username=="admin" and password=="1234"):
         print("Access Granted")
-    
+    else:
+        print("Access denied")
